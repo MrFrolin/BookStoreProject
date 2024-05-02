@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{20AB1153-1262-4819-926C-4916ECF1EC1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookstore", "Labb2-DbFirst\Bookstore.csproj", "{5254F960-59D5-4AFE-B246-743AD57E4938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AB1153-1262-4819-926C-4916ECF1EC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AB1153-1262-4819-926C-4916ECF1EC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AB1153-1262-4819-926C-4916ECF1EC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AB1153-1262-4819-926C-4916ECF1EC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5254F960-59D5-4AFE-B246-743AD57E4938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5254F960-59D5-4AFE-B246-743AD57E4938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5254F960-59D5-4AFE-B246-743AD57E4938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5254F960-59D5-4AFE-B246-743AD57E4938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E2C5155-AC37-4736-956A-A6D86D7468B9}
+	EndGlobalSection
+EndGlobal
